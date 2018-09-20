@@ -1,0 +1,27 @@
+_repo: Extraction-of-the-Teeth_52720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colyer, Frank
+    aliases:
+    - Colyer, James Frank
+    - Colyer, J. F. (James Frank)
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '47014'
+    url: http://www.gutenberg.org/2009/agents/47014
+description: ''
+gutenberg_issued: '2016-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teeth -- Extraction'
+- !lcc 'RK'
+- GITenberg
+title: Extraction of the Teeth
+url: http://www.gutenberg.org/ebooks/52720
